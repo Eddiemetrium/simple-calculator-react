@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-calculator-react/static/css/main.292a2b66.css",
+    "main.js": "/simple-calculator-react/static/js/main.543a716f.js",
+    "index.html": "/simple-calculator-react/index.html",
+    "main.292a2b66.css.map": "/simple-calculator-react/static/css/main.292a2b66.css.map",
+    "main.543a716f.js.map": "/simple-calculator-react/static/js/main.543a716f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.292a2b66.css",
+    "static/js/main.543a716f.js"
+  ]
+}
